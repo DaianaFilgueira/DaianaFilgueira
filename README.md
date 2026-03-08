@@ -20,12 +20,22 @@ Computer Science student from Argentina interested in programming, data analysis
 
 Python  
 C (academic)  
-Pascal (academic)  
-Excel
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaianaFilgueira&show_icons=true&theme=radical)
+
+## Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaianaFilgueira&layout=compact)
 
 ## Projects
 
-Coming soon...
+- python-file-organizer → Organizes files automatically.
+- excel-data-analyzer → Reads Excel files and calculates statistics.
+- ai-prompt-generator → Generates useful prompts for AI tools.
+Pascal (academic)  
+Excel
 
 ## Contact
 
