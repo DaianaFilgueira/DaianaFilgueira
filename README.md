@@ -21,14 +21,6 @@ Computer Science student from Argentina interested in programming, data analysis
 Python  
 C (academic)  
 
-## GitHub Stats
-
-![Daiana's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DaianaFilgueira&show_icons=true)
-
-## Top Languages
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DaianaFilgueira&layout=compact)
-
 ## Projects
 
 - python-file-organizer → Organizes files automatically.
