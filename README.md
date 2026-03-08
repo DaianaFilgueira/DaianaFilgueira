@@ -23,9 +23,9 @@ C (academic)
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaianaFilgueira&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaianaFilgueira&show_icons=true)
 
-## Languages
+## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaianaFilgueira&layout=compact)
 
