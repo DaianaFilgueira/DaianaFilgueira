@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Daiana Filgueira 👋
 
-<!--
-**DaianaFilgueira/DaianaFilgueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student from Argentina interested in programming, data analysis and AI-assisted development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Computer Science student at Universidad Nacional de Quilmes  
+• Python certified  
+• Background in logistics and administrative operations  
+• Interested in software development, data and technology consulting  
+
+## Currently Learning
+
+• Python programming  
+• Data analysis  
+• Software development fundamentals  
+• AI tools for development
+
+## Technologies
+
+Python  
+C (academic)  
+Pascal (academic)  
+Excel
+
+## Projects
+
+Coming soon...
+
+## Contact
+
+Email: dai.filgueira@gmail.com
