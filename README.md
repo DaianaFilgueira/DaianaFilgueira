@@ -1,34 +1,61 @@
 # Hi, I'm Daiana Filgueira 👋
 
-Computer Science student from Argentina interested in programming, data analysis and AI-assisted development.
+💻 Computer Science student from Argentina interested in programming, data analysis and AI-assisted development.
 
-## About Me
+---
 
-• Computer Science student at Universidad Nacional de Quilmes  
-• Python certified  
-• Background in logistics and administrative operations  
-• Interested in software development, data and technology consulting  
+## 👩‍💻 About Me
 
-## Currently Learning
+📚 Currently studying **Licenciatura en Informática** at Universidad Nacional de Quilmes  
+🐍 **Python Certified**  
+📊 Background in **logistics and administrative operations**  
+💡 Interested in **software development, data analysis and technology consulting**
 
-• Python programming  
-• Data analysis  
-• Software development fundamentals  
-• AI tools for development
+---
 
-## Technologies
+## 🌱 Currently Learning
 
-Python  
-C (academic)  
+- Python programming
+- Data analysis
+- Software development fundamentals
+- Git & GitHub workflows
+- AI tools for development
 
-## Projects
+---
 
-- python-file-organizer → Organizes files automatically.
-- excel-data-analyzer → Reads Excel files and calculates statistics.
-- ai-prompt-generator → Generates useful prompts for AI tools.
-Pascal (academic)  
-Excel
+## 🛠 Tech Skills
 
-## Contact
+**Programming**
+- Python
+- C (academic)
+- Pascal (academic)
 
-Email: dai.filgueira@gmail.com
+**Tools**
+- Git & GitHub
+- Microsoft Excel
+
+**Other**
+- AI tools for development
+- Data organization
+
+---
+
+## 🚀 Projects
+
+🔹 **Python File Organizer**  
+Script that automatically organizes files by type into folders.
+
+🔹 **Excel Data Analyzer**  
+Python script that reads Excel files and generates quick statistics.
+
+🔹 **AI Prompt Generator**  
+Simple tool that generates structured prompts for AI workflows.
+
+📂 More projects coming soon.
+
+---
+
+## 📫 Contact
+
+📧 Email: dai.filgueira@gmail.com  
+💻 GitHub: github.com/DaianaFilgueira
