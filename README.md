@@ -52,7 +52,6 @@ Python script that reads Excel files and generates quick statistics.
 Simple tool that generates structured prompts for AI workflows.
 
 🔹 **Python Expense Tracker**
-
 Command-line Python program that allows users to add expenses and view summaries by category using CSV storage.
 
 📂 More projects coming soon.
